@@ -201,8 +201,8 @@ contract SupplyChain is
     // Define a function 'processtItem' that allows a farmer to mark an item 'Processed'
     function processItem(uint256 _upc)
         public
-        onlyFarmer
         harvested(_upc)
+        onlyFarmer
         verifyCaller(items[_upc].ownerID)
     {
         // Update the appropriate fields
