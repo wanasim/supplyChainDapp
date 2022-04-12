@@ -1,0 +1,3 @@
+contract address = 0xD719DFEe3739bCA6ce3603cEA962D744Ad427625
+transaction id = 0xa4d6bf7cba235ff2313df215ed99c706781e83b3e3009ca8276bebe603dbfe3b
+etherscan url = https://rinkeby.etherscan.io/address/0xD719DFEe3739bCA6ce3603cEA962D744Ad427625
